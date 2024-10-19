@@ -270,6 +270,9 @@ body{
     .parameter{
         width: 100%;
     }
+    .not-found p{
+        font-size: 1.2rem;
+    }
 }
 @media (max-width:1 ){
     
